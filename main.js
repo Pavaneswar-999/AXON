@@ -563,7 +563,7 @@
           <div class="cert-header-row">
             <div class="cert-institution-meta">
               <div class="cert-seal-hexagon">
-                <img src="assets/logo-white.webp" alt="Axon Seal" class="cert-seal-icon-img" />
+                <img src="assets/logo-white.webp?v=axon5.0" alt="Axon Seal" class="cert-seal-icon-img" />
               </div>
               <div>
                 <p class="cert-eyebrow">Zero-Knowledge Validated Credential</p>
@@ -1801,7 +1801,7 @@ main().catch(console.error);
           openMenuButtonColor: '#ffffff',
           changeMenuColorOnOpen: true,
           colors: ['#02110c', '#0a2318', '#143827', '#1a422f'],
-          logoUrl: 'assets/logo.webp',
+          logoUrl: 'assets/logo.webp?v=axon5.0',
           accentColor: '#59d499',
           items: [
             {
