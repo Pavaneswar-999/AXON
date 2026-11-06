@@ -1,0 +1,37 @@
+{
+  "name": "axon-certificate-registry",
+  "version": "1.0.0",
+  "description": "Zero-Knowledge Decentralized Certificate Registry powered by commutative Keccak-256 Merkle trees and on-chain root anchoring.",
+  "type": "module",
+  "scripts": {
+    "dev": "python server.py",
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pavaneswar-999/AXON.git"
+  },
+  "author": "Pavaneswar",
+  "license": "MIT",
+  "keywords": [
+    "blockchain",
+    "merkle-tree",
+    "zero-knowledge",
+    "solidity",
+    "openzeppelin",
+    "ethereum",
+    "web3"
+  ],
+  "dependencies": {
+    "js-sha3": "^0.13.0",
+    "merkletreejs": "^0.6.0",
+    "typescript": "^7.0.2",
+    "viem": "^2.57.16"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.6.1",
+    "@types/node": "^26.6.6",
+    "hardhat": "^3.21.2"
+  }
+}

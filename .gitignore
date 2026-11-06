@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+package-lock.json.backup
+
+# Hardhat & Solidity Build Artifacts
+artifacts/
+cache/
+typechain/
+typechain-types/
+coverage/
+coverage.json
+
+# Environment & Sensitive Keys
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.json
+private_keys.json
+
+# Python & Local Server Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,18 @@
+{
+  "axonVersion": "1.0.0",
+  "leaf": "0x4cb19999f816c4c92e1dc32f309a6568db94595856ea28bb678c18c1b9ebec57",
+  "salt": "0x3a91f58b7c42e109d846104c9e830172bf40521e893049581726354819203847",
+  "merkleProof": [
+    "0x9cfb8ca71fc35f6063bb8abccf125a2fa102dbdca7a4358bb1b846e6328325a7",
+    "0x6e9f2df1ff5579930f7b1eec5b367fc9b48b61a4ad104523cf8fa24072f2fa95"
+  ],
+  "root": "0x5b38aa4d69bc539a2b851b22e03254dd9d18e5b61f2fbb1b9319fcb15093e42a",
+  "record": {
+    "certId": "AXON-MIT-2026-091",
+    "recipientName": "Elena Rostova",
+    "recipientIdentifier": "DID:mit.edu:id:99812-ER",
+    "courseDegree": "M.Sc. Quantum Computing & Zero-Knowledge Systems",
+    "issueDate": "2026-06-12",
+    "institutionDid": "did:web:mit.edu"
+  }
+}
